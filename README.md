@@ -1,4 +1,4 @@
-# PORTFOLIO corparate web site
+# PORTFOLIO corporate web site
 
 # descritpion
 
