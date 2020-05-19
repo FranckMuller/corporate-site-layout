@@ -1,0 +1,15 @@
+# PORTFOLIO corparate web site
+
+# descritpion
+
+this is a static multi-page demo site
+own design
+
+was created for the company but still has not seen the light :(
+
+# getting starting
+
+run the command "git clone https://github.com/FranckMuller/corparate-site-layout"
+and open index.html file
+
+see the project here: https://corparate-site-layout.herokuapp.com/index.html
